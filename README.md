@@ -18,7 +18,7 @@ This repository showcases project, built using Power BI Desktop and Excel. It le
 ![Call center trends manager](https://github.com/Talk2David1/Call_Center_Data_Analysis/blob/main/Call-center-Dashboard.png)
 Image of My Call Center Trends Dashboard
 
-## **View Live Interactive Dashboard [Here](https://app.powerbi.com/groups/me/reports/784c3137-6ba3-4e88-9384-688146131f60/eb6f052cf20f5b8c8aa2?experience=power-bi{:target="_blank"})**
+## **View Live Interactive Dashboard [Here](https://app.powerbi.com/groups/me/reports/784c3137-6ba3-4e88-9384-688146131f60/eb6f052cf20f5b8c8aa2?experience=power-bi target="_blank")**
 
 ## **Technology Stack:**
 1. Power BI Desktop
